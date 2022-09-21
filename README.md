@@ -5,7 +5,6 @@
 ```bash
 
 git clone 'https://github.com/LuckyChild/itunes-page.git'
-
 cd itunes-page
 
 ```
